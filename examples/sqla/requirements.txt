@@ -1,4 +1,4 @@
-Flask
+Flask<2.3.0 
 Flask-Admin
 Flask-BabelEx
 Flask-SQLAlchemy
@@ -8,6 +8,7 @@ sqlalchemy_utils
 arrow
 colour
 email_validator
+pytz
 
 # note: for local development, replace 'Flask-Admin' above with a reference to
 # your local copy of the repo e.g. '-e .' if you're installing this from the
